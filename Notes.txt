@@ -5,7 +5,7 @@ C:\Users\Circle\Git\SetUpGIT
 //////////////////////////////////////////////////
 cd Git
 git config --global user.name "Shrushrita-Sharma"
-git config --global user.email shrushrita.sharma@yahoo.com
+git config --global user.email my_email
 git clone https://github.com/Shrushrita-Sharma/SetUpGIT.git
 ls
 cd SetUpGIT
