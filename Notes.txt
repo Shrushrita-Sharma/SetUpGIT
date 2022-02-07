@@ -1,4 +1,18 @@
 2022-02-06
 Installation of Git
 
-cd
+//////////////////////////////////////////////////
+cd Git
+git config --global user.name "Shrushrita-Sharma"
+git config --global user.email shrushrita.sharma@yahoo.com
+git clone https://github.com/Shrushrita-Sharma/SetUpGIT.git
+ls
+cd SetUpGIT
+ls
+
+//////////////////////////////////////////////////
+Every time commiting a file in the master repository
+git add Notes.txt
+git commit -m "First Commit" filename
+git push -u origin main
+//////////////////////////////////////////////////
